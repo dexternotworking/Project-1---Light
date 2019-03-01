@@ -1,10 +1,10 @@
 Light
 
 About:
-A flashlight app
+An interactive touch application
 
 Description:
-Users can press anywhere on the screen and flashlight will turn on by making screen white, once screen is white users can press anywhere on the screen and flashlight will turn off by making screen black.
+Users can press anywhere on the screen and it will alternate between a light and dark mode.
 
 Technologies Used:
 Interface Builder, Swift, Xcode
